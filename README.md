@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume_site.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://github.com/patrick-fulghum/Portfolio-Site/blob/master/img/resume_site.png)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
